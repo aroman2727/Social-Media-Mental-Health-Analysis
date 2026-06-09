@@ -29,6 +29,12 @@ Análisis completo del impacto del uso de redes sociales en la salud mental glob
     │   ├── 01_crear_base_de_datos.sql # Creación de tablas, carga masiva e índices
     │   └── 02_analisis_consultas.sql  # 20 consultas analíticas optimizadas
     │
+    ├── assets/                          # Imagenes del Dashboard para el README
+    │   ├── page1_resumen.png
+    │   ├── page2_(en proceso)
+    │   ├── page3_(en proceso)
+    │   ├── page4_(en proceso)
+    │
     ├── powerbi/
     │   └── dashboard.pbix             # Dashboard Power BI (próximamente)
     │
@@ -111,8 +117,18 @@ Al analizar los datos se identificaron problemas estructurales que descartaron l
 
 El modelo visual se alimenta mediante la inyección directa de consultas SQL pre-agregadas (técnica de *Push-Down Computing*), evitando el cálculo pesado en DAX para garantizar un rendimiento instantáneo.
 
-* **Dashboard 1 (Ejecutivo):** KPIs globales, ranking de daño algorítmico, y proyecciones a futuro. Lectura rápida en 5 minutos.
-* **Dashboard 2 (Técnico):** Correlaciones profundas (dopamina vs adicción), impacto cruzado por grupos etarios, eficiencia de los intentos de desintoxicación y mapeo de perfiles vulnerables.
+### 1️⃣ Panorama Global y Estado Actual
+Vista ejecutiva con KPIs principales, distribución geográfica del riesgo y evolución histórica a 10 años.
+![Panorama Global](assets/page1_resumen.png)
+
+### 2️⃣ (En Proceso)
+
+
+### 3️⃣ (En Proceso)
+
+
+### 4️⃣ (En Proceso)
+
 
 ---
 
