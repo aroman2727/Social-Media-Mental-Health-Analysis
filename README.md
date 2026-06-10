@@ -33,10 +33,10 @@ Análisis completo del impacto del uso de redes sociales en la salud mental glob
     │   ├── page1_resumen.png
     │   ├── page2_algoritmos.png
     │   ├── page3_geografia.png
-    │   ├── page4_(en proceso)
+    │   ├── page4_futuro.png
     │
     ├── powerbi/
-    │   └── dashboard.pbix             # Dashboard Power BI (próximamente)
+    │   └── dashboard.pbix             # Dashboard Power BI
     │
     └── README.md
 
@@ -124,14 +124,17 @@ Vista ejecutiva con KPIs principales, distribución geográfica del riesgo y evo
 ### 2️⃣ Plataformas: Algoritmos y Dopamina
 Desglose técnico del impacto individual por red social. Se evalúa el índice de peligro algorítmico y se cruza el score de dopamina contra el nivel de riesgo de adicción de los usuarios.
 ![Impacto por Plataforma y Algoritmos](assets/page2_algoritmos.png)
+* **Insight Principal:** Instagram lidera el score de peligro algorítmico global (50.39). Al cruzar los datos, se evidencia visualmente que los picos de dopamina generados por la plataforma concentran casi en su totalidad a los usuarios de "Alto Riesgo" de adicción (barras rojas), demostrando que el daño mental no es casualidad, sino producto del diseño algorítmico.
 
 ### 3️⃣ Geografía: Bienestar Mental y Acceso a Terapia
 Análisis focalizado en la distribución global del riesgo psicológico, identificando las naciones con mayor vulnerabilidad y evaluando la brecha de tratamientos clínicos a lo largo de una década.
 ![Dashboard Geografía](assets/page3_geografia.png)
+* **Insight Principal:** Japón lidera el índice global de riesgo de autolesión (51.9), superando el promedio internacional. Al cruzar la carga psicológica histórica con la disponibilidad clínica, se detecta que la alta densidad de usuarios en zonas de "Riesgo Alto" mantiene una brecha de terapia sostenida, indicando que el problema crece a un ritmo mayor que la infraestructura de salud mental disponible.
 
-### 4️⃣ (En Proceso)
-
-
+### 4️⃣ Futuro: Proyección Psicológica Global (2030–2060)
+Modelo predictivo que evalúa el deterioro compuesto a largo plazo, asumiendo la inacción en la regulación del diseño algorítmico actual.
+![Dashboard Proyecciones](assets/page4_futuro.png)
+* **Insight Principal:** El modelo expone un "efecto tijera" alarmante. Mientras el volumen de ansiedad proyectada se consolida como un muro estructural inamovible década tras década, la Tasa de Recuperación clínica sufre una volatilidad extrema y sin tendencia de mejora. Esto demuestra matemáticamente que la crisis futura no radica solo en la cantidad de usuarios afectados, sino en la incapacidad sostenida del sistema para rehabilitarlos.
 ---
 
 ## 🚀 Cómo reproducir el proyecto
