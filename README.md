@@ -2,7 +2,7 @@
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Data Engineering](https://img.shields.io/badge/Data_Engineering-005571?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-005571?style=for-the-badge)
 
 Análisis completo del impacto del uso de redes sociales en la salud mental global. El proyecto abarca desde el diseño de la base de datos y optimización en SQL Server hasta la visualización en Power BI, documentando cada decisión técnica tomada en el proceso.
 
@@ -109,6 +109,8 @@ Al analizar los datos se identificaron problemas estructurales que descartaron l
 | **15** | Tendencia a 10 años | `psychological_burden_index` | Promedio(Ansiedad, Depresión, Estrés, Soledad) |
 | **16** | Recaídas por plataforma | `detox_efficiency_score` | Mejora de bienestar ÷ Intentos de detox |
 | **17** | Dopamina vs Rendimiento | `addiction_pressure_index` | Dopamina × (Refresh ÷ 100) × Gratificación |
+| **18** | ¿Algoritmos manipulan más a mujeres? | `algorithmic_danger_score` | (Echo×0.3) + (Manipulación×0.4) + (Adicción×0.3) segmentado por género |
+| **19** | ¿Duermen menos con peor salud mental? | `psychological_burden_index` | Promedio(Ansiedad, Depresión, Estrés, Soledad) cruzado con horas de sueño |
 | **20** | Proyección al 2060 | `crisis_composite_index` | (Ansiedad×0.4) + (Adicción×0.35) + (Aislamiento×0.25) |
 
 ---
