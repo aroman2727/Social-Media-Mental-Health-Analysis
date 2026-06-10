@@ -32,7 +32,7 @@ Análisis completo del impacto del uso de redes sociales en la salud mental glob
     ├── assets/                          # Imagenes del Dashboard para el README
     │   ├── page1_resumen.png
     │   ├── page2_algoritmos.png
-    │   ├── page3_(en proceso)
+    │   ├── page3_geografia.png
     │   ├── page4_(en proceso)
     │
     ├── powerbi/
@@ -121,12 +121,13 @@ El modelo visual se alimenta mediante la inyección directa de consultas SQL pre
 Vista ejecutiva con KPIs principales, distribución geográfica del riesgo y evolución histórica a 10 años.
 ![Panorama Global](assets/page1_resumen.png)
 
-### 2️⃣ La Caja Negra: Algoritmos y Dopamina
+### 2️⃣ Plataformas: Algoritmos y Dopamina
 Desglose técnico del impacto individual por red social. Se evalúa el índice de peligro algorítmico y se cruza el score de dopamina contra el nivel de riesgo de adicción de los usuarios.
 ![Impacto por Plataforma y Algoritmos](assets/page2_algoritmos.png)
 
-### 3️⃣ (En Proceso)
-
+### 3️⃣ Geografía: Bienestar Mental y Acceso a Terapia
+Análisis focalizado en la distribución global del riesgo psicológico, identificando las naciones con mayor vulnerabilidad y evaluando la brecha de tratamientos clínicos a lo largo de una década.
+![Dashboard Geografía](assets/page3_geografia.png)
 
 ### 4️⃣ (En Proceso)
 
